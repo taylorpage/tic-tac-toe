@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+body {
+  background: rgb(100,100,200);
+}
+.cell {
+  width: 100px;
+  height: 100px;
+  border: 3px solid black;
+  border-radius: 10px;
+  background: white;
+  text-align: center;
+  font-size: 65px;
+  font-family: Pacifico;
+  float: left;
+}
+
+#buttonCase {
+  text-align: center;  
+}
+
+.choiceBtn {
+  border-style: none;
+  border-radius: 10px;
+  background-color: white;
+  font-family: Pacifico;
+  width: 50px;
+}
+
+#choice p {
+  font-size: 30px;
+  font-family: Pacifico;
+  margin-top: 35vh;
+  text-align: center;
+}
+
+#grid {
+  width: 320px;
+  margin: 80px auto;
+}
+
+#title{
+  font-size: 60px;
+  margin-top: 60px;
+  text-align: center;
+  font-family: Pacifico;
+}
+
+
